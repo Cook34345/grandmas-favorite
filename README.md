@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+hi I'm trying to find out how I type in a email to search a username on reddit
 <!--
 **grandmas-favorite/grandmas-favorite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
